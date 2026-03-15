@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customer Churn Prediction</title>
+</head>
+
+<body>
+
+<h1>Customer Churn Prediction App</h1>
+
+<form action="/predict" method="post">
+
+<label>Tenure:</label>
+<input type="text" name="tenure"><br><br>
+
+<label>Monthly Charges:</label>
+<input type="text" name="monthlycharges"><br><br>
+
+<label>Total Charges:</label>
+<input type="text" name="totalcharges"><br><br>
+
+<input type="submit" value="Predict">
+
+</form>
+
+<h2>{{ prediction_text }}</h2>
+
+</body>
+</html>
