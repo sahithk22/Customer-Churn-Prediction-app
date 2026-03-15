@@ -1,7 +1,5 @@
 # Customer-Churn-Prediction-app
-Customer churn prediction using Machine Learning and Streamlit
-
-# Customer Churn Prediction System
+Customer churn prediction using Machine Learning and Streamlit.
 
 A Machine Learning web application that predicts whether a telecom customer is likely to churn or stay.  
 The application is built using Python, Scikit-learn, and Streamlit and deployed on Streamlit Cloud.
