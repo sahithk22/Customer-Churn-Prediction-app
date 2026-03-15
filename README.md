@@ -77,3 +77,17 @@ Why Random Forest?
 ---
 
 ## Project Structure
+customer-churn-prediction
+│
+├── app.py
+├── models
+│ └── churn_model.pkl
+│
+├── data
+│ └── churn_dataset.csv
+│
+├── images
+│ └── churn_bg.png
+│
+├── requirements.txt
+└── README.md
