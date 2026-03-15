@@ -89,3 +89,12 @@ customer-churn-prediction
 │
 ├── requirements.txt
 └── README.md
+
+
+
+---
+
+## Installation
+
+Clone the repository:
+ https://github.com/yourusername/customer-churn-prediction.git
