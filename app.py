@@ -31,7 +31,7 @@ def get_base64(file):
     with open(file, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-img = get_base64("images/churn_bg.png")
+img = get_base64("churn_bg.png")
 
 st.markdown(f"""
 <style>
