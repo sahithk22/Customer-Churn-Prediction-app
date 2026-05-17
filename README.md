@@ -7,7 +7,7 @@ The application is built using Python, Scikit-learn, and Streamlit and deployed 
 ---
 
 ## Live Application
-Streamlit App: https://your-streamlit-app-link  
+Streamlit App: https://customer-churn-prediction-app-jrdeuhtqt2zp8fev4tpumg.streamlit.app 
 GitHub Repository: https://github.com/sahithk22/Customer-Churn-Prediction-app
 
 ---
